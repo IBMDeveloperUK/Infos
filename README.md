@@ -2,7 +2,7 @@
 
 Centralising all content from the IBM Code London workshops.
 
-### Useful Links:
+### Useful Links
 
 - [Meetup group](https://www.meetup.com/IBM-Code-London/ "Meetup landing page")
 - [Slack channel](http://ibm.biz/slack-code-ldn "Slack channel")
