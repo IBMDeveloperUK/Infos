@@ -12,6 +12,7 @@ Centralising all content from the IBM Code London workshops.
 - [Cloud Native Development](https://github.com/edshee/CNDWorkshops)
 - [Artificial Intelligence APIs](https://github.com/arlemi/AI_APIs_Workshops)
 - Internet of Things
+- Node-RED
 
 ### Developer Advocates
 
