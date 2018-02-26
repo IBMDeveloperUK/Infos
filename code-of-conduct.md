@@ -1,4 +1,4 @@
-*CODE OF CONDUCT*
+ ## CODE OF CONDUCT 
 
 IBM Code London, hereinafter referred to as the Event Organizers, are dedicated to providing a safe, respectful, comfortable, and harassment-free environment for all event participants.
 
