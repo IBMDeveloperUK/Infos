@@ -6,6 +6,7 @@ Centralising all content from the IBM Code London workshops.
 
 - [Meetup group](https://www.meetup.com/IBM-Code-London/ "Meetup landing page")
 - [Slack channel](http://ibm.biz/slack-code-ldn "Slack channel")
+- [Code of Conduct](https://github.com/arlemi/IBMCode_London/blob/master/code-of-conduct.md "Code of Conduct")
 
 ### Tracks
 
