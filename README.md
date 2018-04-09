@@ -1,4 +1,4 @@
-## IBM Code Meetup - [code.london](code.london)
+## IBM Code Meetup - [code.london](http://code.london)
 
 Centralising all content from the IBM Code London workshops.
 
