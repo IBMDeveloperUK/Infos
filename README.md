@@ -18,6 +18,7 @@ Centralising all content from the IBM Code London workshops.
 ### Developer Advocates
 
 - [Ed - @ukcloudman](https://twitter.com/ukcloudman)
+- [Mofe](https://www.linkedin.com/in/mofe-salami-97936760/)
 - [Ross - @rcruicks](https://twitter.com/rcruicks)
 - [Sean - @seanmtracey](https://twitter.com/seanmtracey)
 - [Arlemi - @arlemi](https://twitter.com/arlemi)
