@@ -43,7 +43,8 @@ You can make a personal report by:
 - Speaking to your instructor or speaker
 - Speaking to an IBM’er
 - Sending us a direct message via Meetup.com 
-- Sending us a direct message via Twitter @codemeetup
+- Sending us a direct message via Twitter [CodeMeetup](https://twitter.com/CodeMeetup)
+
 
 
 IBM may revise this Code of Conduct at any time. This Code of Conduct is without prejudice to IBM’s rights, all of which it expressly reserves. 
