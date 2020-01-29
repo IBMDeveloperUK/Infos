@@ -1,7 +1,7 @@
  ## CODE OF CONDUCT  - REPORTING GUIDELINES
 
 
-If you believe someone is violating the Code of Conduct form IBM Code Meetups [Code_of Conduct] (code-of-conduct.md) we ask that you report it to the Organisers as listed on the IBM Code Meetup pages in any of the following ways:
+If you believe someone is violating the Code of Conduct form IBM Code Meetups [Code of Conduct](code-of-conduct.md) we ask that you report it to the Organisers as listed on the IBM Code Meetup pages in any of the following ways:
 
 
 - Sending a message to the Code of Conduct Text Service (number will published at our events)
