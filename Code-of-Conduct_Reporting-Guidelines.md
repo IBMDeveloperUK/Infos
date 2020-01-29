@@ -70,6 +70,7 @@ If your report concerns a current IBM Code Meetup Organiser you can make a repor
 
 
 **Reconsideration**
+
 Any of the parties directly involved or affected can request reconsideration of the Moderation Team's decision. To make such a request, contact Mo.Haghighi@ibm.com with your request and motivation.
 
 
