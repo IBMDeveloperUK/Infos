@@ -37,7 +37,7 @@ By participating in this event, you agree to adhere to this Code of Conduct. If 
 
 If someone engaged in harassing or otherwise unacceptable behaviour and it causes you or anyone else to feel unsafe or uncomfortable during this event, please report the circumstances so that appropriate action can be taken. Our full Reporting Guidelines are detailed here : [Reporting Guidelines](Code-of-Conduct_Reporting-Guidelines.md "Reporting Guidelines")
 
-You can make a personal report by:.
+You can make a personal report by:
 
 - Sending a message to the Code of Conduct Text Service (number to be communicated at our events)
 - Speaking to your instructor or speaker
