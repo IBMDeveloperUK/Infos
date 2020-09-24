@@ -11,14 +11,22 @@ Centralising all content from the IBM Code London workshops.
 ### Tracks
 
 - [Cloud Native Development](https://github.com/edshee/CNDWorkshops)
-- [Artificial Intelligence APIs](https://github.com/arlemi/AI_APIs_Workshops)
-- Internet of Things
+- [Artificial Intelligence](https://github.com/arlemi/AI_APIs_Workshops)
 - [Node-RED](https://www.youtube.com/watch?v=QXU0FKG-5yI "Node-RED introduction")
+- Data Science
+- Machine Learning
+- IOT 
 
 ### Developer Advocates
 
 - [Ed - @ukcloudman](https://twitter.com/ukcloudman)
-- [Mofe](https://www.linkedin.com/in/mofe-salami-97936760/)
 - [Ross - @rcruicks](https://twitter.com/rcruicks)
 - [Sean - @seanmtracey](https://twitter.com/seanmtracey)
-- [Arlemi - @arlemi](https://twitter.com/arlemi)
+- [Yamini - @yaminigrao](https://twitter.com/yaminigrao)
+- [Margriet - @MargrietGR](https://twitter.com/MargrietGR)
+- [Matt - @Hammertoe](https://twitter.com/Hammertoe)
+- [Liam - @LiamConroyH](https://twitter.com/LiamConroyH) 
+- [Simon - @SimonARBaker](https://twitter.com/SimonARBaker)
+- [Mo- @mohaghighi](https://twitter.com/mohaghighi)
+- [Angela - @angelajbates](https://twitter.com/angelajbates)
+
