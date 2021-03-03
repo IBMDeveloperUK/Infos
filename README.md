@@ -25,7 +25,7 @@ Centralising all content from the IBM Code London workshops.
 - [Yamini - @yaminigrao](https://twitter.com/yaminigrao)
 - [Margriet - @MargrietGR](https://twitter.com/MargrietGR)
 - [Matt - @Hammertoe](https://twitter.com/Hammertoe)
-- [Liam - @LiamConroyH](https://twitter.com/LiamConroyH) 
+- [Liam - @LiamConroyH](https://twitter.com/liamchampton) 
 - [Simon - @SimonARBaker](https://twitter.com/SimonARBaker)
 - [Mo- @mohaghighi](https://twitter.com/mohaghighi)
 - [Angela - @angelajbates](https://twitter.com/angelajbates)
